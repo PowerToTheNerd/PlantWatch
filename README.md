@@ -16,7 +16,7 @@
 
 ---
 
-## 🌱 Project : Nerd Inc Plant Tracker (WIP)
+## 🌱 Project : Plant Tracker (WIP)
 
 Right now, my Nerd Inc Plant Tracker is still a work in progress, but I’ve built the foundation by focusing on data collection. The program runs on a Pi 5, it automatically logs readings from a BH1750 lux sensor (for light intensity) and a capacitive soil moisture sensor (through an ADS1115 ADC), along with the date and time, into daily CSV files.
 

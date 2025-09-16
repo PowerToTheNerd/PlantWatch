@@ -1,7 +1,5 @@
 # PlantWatch
 
-A plant doctor!?! 😁
-
 ## 🌱 Plant Tracker – TODO
 
 - [ ] Figure out formula to scale soil moisture values (≈7000–21000) into 0–100%.

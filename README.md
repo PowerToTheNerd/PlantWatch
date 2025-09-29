@@ -18,7 +18,7 @@
 
 ## 🌱 Project : Plant Tracker (WIP)
 
-Right now, my Nerd Inc Plant Tracker is still a work in progress, but I’ve built the foundation by focusing on data collection. The program runs on a Pi 5, it automatically logs readings from a BH1750 lux sensor (for light intensity) and a capacitive soil moisture sensor (through an ADS1115 ADC), along with the date and time, into daily CSV files.
+Right now, the Plant Tracker is still a work in progress, but I’ve built the foundation by focusing on data collection. The program runs on a Pi 5, it automatically logs readings from a BH1750 lux sensor (for light intensity) and a capacitive soil moisture sensor (through an ADS1115 ADC), along with the date and time, into daily CSV files.
 
 I’ve already done my own calibration testing — I recorded multiple samples with the soil sensor completely dry (in air) and fully wet (submerged in water), then calculated the averages for absolute dry and wet conditions. I saved those values in my “Important Info” file and plan to use them in future updates to translate raw sensor readings into a 0–100% soil moisture scale.
 
